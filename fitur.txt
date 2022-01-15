@@ -1,0 +1,6 @@
+Tambah Surat
+Edit Surat
+Hapus Surat
+Baca Surat
+Cari Surat
+Upload file
